@@ -3,6 +3,7 @@
 **A bilingual (Arabic / English) point-of-sale app for cafés, built with Swift & SwiftUI for Mac and iPad — with cashier control and audit built in.**
 
 **نظام كاشير لكافيه بالعربي والإنجليزي، مبني بـ Swift و SwiftUI لأجهزة Mac و iPad، ومعمول من الأساس عشان صاحب المحل يقدر يراقب الكاش والكاشيرات.**
+![Swift](https://img.shields.io/badge/Swift-5.10-orange) ![SwiftUI](https://img.shields.io/badge/SwiftUI-macOS%20%7C%20iPadOS-blue) ![Languages](https://img.shields.io/badge/UI-Arabic%20%7C%20English-green)
 
 
 
